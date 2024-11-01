@@ -37,4 +37,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2554-minimum-total-distance-traveled) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
