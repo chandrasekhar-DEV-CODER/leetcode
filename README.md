@@ -43,6 +43,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0812-rotate-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## String Matching
 |  |
 | ------- |
