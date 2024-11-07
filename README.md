@@ -7,6 +7,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -20,6 +21,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -41,6 +43,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
