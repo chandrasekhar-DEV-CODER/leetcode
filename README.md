@@ -19,6 +19,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -128,6 +129,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
@@ -153,4 +155,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
