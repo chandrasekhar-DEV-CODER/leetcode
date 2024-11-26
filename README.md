@@ -169,4 +169,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0787-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
