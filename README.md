@@ -19,6 +19,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -50,6 +51,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2716-prime-subtraction-operation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## Sorting
@@ -167,6 +169,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1917-maximum-average-pass-ratio](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2868-continuous-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
