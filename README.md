@@ -9,6 +9,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0001-two-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
+| [0136-single-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
@@ -128,6 +129,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0136-single-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
