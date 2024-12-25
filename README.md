@@ -17,6 +17,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
+| [0560-subarray-sum-equals-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0787-sliding-puzzle) |
@@ -53,6 +54,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -148,6 +150,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
