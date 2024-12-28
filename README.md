@@ -19,6 +19,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
 | [0560-subarray-sum-equals-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -102,6 +103,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
