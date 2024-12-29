@@ -26,6 +26,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -104,6 +105,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -116,6 +118,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0812-rotate-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2580-circular-sentence) |
