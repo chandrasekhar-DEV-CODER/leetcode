@@ -31,6 +31,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1917-maximum-average-pass-ratio](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
@@ -59,6 +60,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0128-longest-consecutive-sequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -80,6 +82,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -185,6 +188,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0151-reverse-words-in-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
