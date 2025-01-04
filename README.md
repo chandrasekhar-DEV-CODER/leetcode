@@ -61,6 +61,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -129,6 +130,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1537-maximum-score-after-splitting-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2580-circular-sentence) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -157,6 +159,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0136-single-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0136-single-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -169,6 +172,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
