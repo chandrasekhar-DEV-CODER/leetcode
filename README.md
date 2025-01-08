@@ -48,6 +48,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2868-continuous-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3463-alternating-groups-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -138,11 +139,13 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0812-rotate-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -303,8 +306,17 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0494-target-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
