@@ -24,6 +24,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0780-max-chunks-to-make-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -63,6 +64,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0128-longest-consecutive-sequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0952-word-subsets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -128,6 +130,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0151-reverse-words-in-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
