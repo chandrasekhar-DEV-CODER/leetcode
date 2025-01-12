@@ -1,21 +1,17 @@
 class Solution {
 public:
-    int subarraySum(vector<int>& arr, int k) {
-      int n = arr.size(); // size of the given array.
-    int cnt = 0; // Number of subarrays:
-
-    for (int i = 0 ; i < n; i++) { // starting index i
-        int sum = 0;
-        for (int j = i; j < n; j++) { // ending index j
-            // calculate the sum of subarray [i...j]
-            // sum of [i..j-1] + arr[j]
-            sum += arr[j];
-
-            // Increase the count if sum == k:
-            if (sum == k)
-                cnt++;
+    int subarraySum(vector<int>& nums, int k) {
+       unordered_map<int, int> m; 
+        m[0]=1;
+        int p=0,c=0;
+        for(int i=0;i<nums.size();i++)
+        {
+            p+=nums[i];
+            int s=p-k;
+            c+=m[s];
+            m[p]+=1;
         }
-    }
-    return cnt;  
+        return c;
+
     }
 };
