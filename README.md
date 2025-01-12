@@ -12,6 +12,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0054-spiral-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -107,6 +108,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -255,6 +257,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0048-rotate-image](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0787-sliding-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0787-sliding-puzzle) |
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
 ## Simulation
