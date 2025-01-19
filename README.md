@@ -18,6 +18,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
+| [0407-trapping-rain-water-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
@@ -247,6 +248,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1917-maximum-average-pass-ratio](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -265,6 +267,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0054-spiral-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0787-sliding-puzzle) |
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
 ## Simulation
@@ -276,6 +279,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0787-sliding-puzzle) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
