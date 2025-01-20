@@ -47,6 +47,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -76,6 +77,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2685-first-completely-painted-row-or-column](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
@@ -270,6 +272,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0407-trapping-rain-water-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0787-sliding-puzzle) |
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
+| [2685-first-completely-painted-row-or-column](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Simulation
 |  |
 | ------- |
