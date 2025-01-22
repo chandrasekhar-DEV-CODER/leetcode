@@ -352,4 +352,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
