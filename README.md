@@ -293,6 +293,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0407-trapping-rain-water-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -302,6 +303,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [3189-find-champion-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -321,6 +323,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -365,4 +368,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
