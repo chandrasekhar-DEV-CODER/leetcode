@@ -148,6 +148,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0014-longest-common-prefix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0344-reverse-string) |
