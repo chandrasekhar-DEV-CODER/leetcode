@@ -388,6 +388,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Topological Sort
 |  |
@@ -395,4 +396,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0820-find-eventual-safe-states](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
