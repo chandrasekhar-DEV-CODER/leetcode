@@ -208,6 +208,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0191-number-of-1-bits) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -425,6 +426,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
