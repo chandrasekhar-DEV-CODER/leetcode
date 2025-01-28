@@ -258,6 +258,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -275,6 +276,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2868-continuous-subarrays) |
 ## Heap (Priority Queue)
@@ -423,4 +425,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
