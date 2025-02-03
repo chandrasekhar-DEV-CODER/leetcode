@@ -436,6 +436,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0148-sort-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Topological Sort
 |  |
 | ------- |
