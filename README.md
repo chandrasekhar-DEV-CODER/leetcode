@@ -403,6 +403,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -414,6 +415,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0854-making-a-large-island) |
@@ -432,6 +434,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Union Find
