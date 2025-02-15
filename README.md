@@ -30,6 +30,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0496-next-greater-element-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0605-can-place-flowers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0739-daily-temperatures](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -121,6 +122,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
