@@ -60,6 +60,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1927-maximum-ascending-subarray-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
+| [2102-find-the-middle-index-in-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -291,6 +292,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2102-find-the-middle-index-in-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2145-grid-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Sliding Window
