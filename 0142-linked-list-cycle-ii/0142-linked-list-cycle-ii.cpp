@@ -13,8 +13,7 @@ public:
         int i=0;
         ListNode *temp=head;
         while(temp!=NULL){
-            if(a.find(temp)!=a.end())
-            {
+            if(a.find(temp)!=a.end()){
                 return temp;
             }
             a[temp]=true;
