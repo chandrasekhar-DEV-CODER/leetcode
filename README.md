@@ -265,6 +265,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0048-rotate-image](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -284,6 +285,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0187-repeated-dna-sequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -577,6 +579,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
