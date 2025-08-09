@@ -19,6 +19,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0128-longest-consecutive-sequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -109,6 +110,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -155,6 +157,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0049-group-anagrams](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
@@ -171,6 +174,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
 | [1034-subarrays-with-k-different-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -585,6 +589,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
