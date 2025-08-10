@@ -1,12 +1,11 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& a) {
-        int mi=INT_MAX;
-        int ma=INT_MIN;
-        for(int i=0;i<a.size();i++){
-            mi=min(a[i],mi);
-            ma=max(ma,a[i]-mi);
-        }
-        return ma;
+    int maxProfit(vector<int>& prices) {
+        int m=INT_MIN,a=INT_MAX;
+        for(int i=0;i<prices.size();i++){
+            a=min(a,prices[i]);
+            m=max(m,prices[i]-a);
+            }
+        return m>0?m:0;
     }
 };
