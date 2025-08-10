@@ -8,6 +8,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0001-two-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0054-spiral-matrix) |
@@ -142,6 +143,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
@@ -210,6 +212,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
