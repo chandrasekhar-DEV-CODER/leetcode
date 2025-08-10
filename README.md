@@ -121,6 +121,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0496-next-greater-element-i) |
@@ -186,6 +187,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0169-majority-element](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
 | [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -247,6 +249,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0187-repeated-dna-sequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0952-word-subsets) |
