@@ -31,6 +31,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -118,6 +119,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0217-contains-duplicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0496-next-greater-element-i) |
@@ -282,6 +284,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0189-rotate-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -613,6 +616,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Memoization
 |  |
 | ------- |
@@ -621,4 +625,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
