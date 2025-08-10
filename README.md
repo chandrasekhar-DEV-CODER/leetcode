@@ -14,6 +14,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0054-spiral-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -240,6 +241,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0049-group-anagrams](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -448,6 +450,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0068-text-justification) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
