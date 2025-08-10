@@ -120,6 +120,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -164,6 +165,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0985-bag-of-tokens](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0985-bag-of-tokens) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -178,6 +180,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0169-majority-element](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
+| [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1396-count-servers-that-communicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -273,6 +276,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0189-rotate-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -607,4 +611,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
