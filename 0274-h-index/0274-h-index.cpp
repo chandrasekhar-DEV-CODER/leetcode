@@ -1,12 +1,10 @@
 class Solution {
 public:
-    int hIndex(vector<int>& arr) {
-        sort(arr.begin(),arr.end());
-        for(int i=0;i<arr.size();i++)
-        {
-            if(arr[i]>=arr.size()-i)
-            {
-                return arr.size()-i;
+    int hIndex(vector<int>& c) {
+        sort(c.begin(),c.end());
+        for(int i=0;i<c.size();i++){
+            if(c[i]>=c.size()-i){
+                return c.size()-i;
             }
         }
         return 0;
