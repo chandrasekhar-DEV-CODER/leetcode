@@ -235,6 +235,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## String
 |  |
