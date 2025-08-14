@@ -271,6 +271,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2580-circular-sentence) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
