@@ -294,6 +294,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0189-rotate-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -317,6 +318,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0231-power-of-two](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0342-power-of-four) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -614,6 +616,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0206-reverse-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
