@@ -116,6 +116,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0217-contains-duplicate) |
@@ -383,6 +384,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0142-linked-list-cycle-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -602,6 +604,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
