@@ -230,6 +230,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0152-maximum-product-subarray](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0867-new-21-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -298,6 +299,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0867-new-21-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1448-maximum-69-number) |
@@ -362,6 +364,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0239-sliding-window-maximum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0867-new-21-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -650,4 +653,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
