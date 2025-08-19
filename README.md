@@ -81,6 +81,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2292-counting-words-with-a-given-prefix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -304,6 +305,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
