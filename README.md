@@ -106,6 +106,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3429-special-array-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3463-alternating-groups-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -475,6 +476,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2145-grid-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation
 |  |
 | ------- |
