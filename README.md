@@ -103,6 +103,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2868-continuous-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
