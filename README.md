@@ -115,6 +115,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +253,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2562-count-ways-to-build-good-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## String
 |  |
 | ------- |
@@ -487,6 +489,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Simulation
 |  |
 | ------- |
@@ -670,6 +673,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0070-climbing-stairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1013-fibonacci-number) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Enumeration
 |  |
 | ------- |
