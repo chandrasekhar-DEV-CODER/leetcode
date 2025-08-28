@@ -116,6 +116,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2699-count-the-number-of-fair-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3748-sort-matrix-by-diagonals](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting Sort
 |  |
 | ------- |
@@ -490,6 +492,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
 | ------- |
