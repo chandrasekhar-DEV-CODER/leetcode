@@ -551,6 +551,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0144-binary-tree-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -591,6 +592,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0144-binary-tree-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -690,4 +692,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0867-new-21-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
