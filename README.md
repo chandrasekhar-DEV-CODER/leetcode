@@ -8,6 +8,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0001-two-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0049-group-anagrams) |
@@ -122,6 +123,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0001-two-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -473,6 +475,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
