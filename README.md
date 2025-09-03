@@ -106,6 +106,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -200,6 +201,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2554-minimum-total-distance-traveled](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3748-sort-matrix-by-diagonals](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -330,6 +332,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2432-number-of-zero-filled-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -693,6 +696,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Randomized
@@ -710,5 +714,6 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
