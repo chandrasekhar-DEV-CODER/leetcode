@@ -53,6 +53,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0854-making-a-large-island](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0985-bag-of-tokens) |
@@ -231,6 +232,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0287-find-the-duplicate-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
