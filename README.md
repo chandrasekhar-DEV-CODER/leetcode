@@ -7,6 +7,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0037-sudoku-solver) |
@@ -172,6 +173,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -428,6 +430,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0125-valid-palindrome) |
