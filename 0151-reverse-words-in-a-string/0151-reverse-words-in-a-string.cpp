@@ -1,24 +1,22 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string d="";
-        string d1="";
-        for(int i=0;i<s.size();i++)
-        {
-            if(s[i]==' ' || i==s.size()-1)
-            {
-             if (i == s.size() - 1 && s[i] != ' ') {
-                    d1 += s[i];
+        string r = "", word = "";
+        for (int i = s.size() - 1; i >= 0; i--) {
+            if (s[i] == ' ') {
+                if (!word.empty()) {
+                    r += word + " ";
+                    word = "";
                 }
-                if (!d1.empty()) {
-                    d = d1 + (d.empty() ? "" : " ") + d;
-                }
-                d1="";
-            }
-            else{
-                d1=d1+s[i];
+            } else {
+                word = s[i] + word;
             }
         }
-        return d;
+        if (!word.empty()) {
+            r += word;
+        } else if (!r.empty()) {
+            r.pop_back(); // remove trailing space
+        }
+        return r;
     }
 };
