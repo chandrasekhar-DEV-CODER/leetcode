@@ -82,6 +82,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -541,6 +542,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0054-spiral-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0498-diagonal-traverse) |
+| [1929-concatenation-of-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
