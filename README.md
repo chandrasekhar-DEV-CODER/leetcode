@@ -128,6 +128,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -175,6 +176,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2685-first-completely-painted-row-or-column](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -363,6 +365,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3830-find-closest-person) |
 ## Number Theory
@@ -754,6 +757,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Brainteaser
 |  |
 | ------- |
