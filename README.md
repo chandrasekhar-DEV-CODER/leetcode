@@ -320,6 +320,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2211-count-collisions-on-a-road](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -479,6 +480,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1628-count-submatrices-with-all-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
@@ -550,6 +552,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0498-diagonal-traverse](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0498-diagonal-traverse) |
 | [1929-concatenation-of-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
