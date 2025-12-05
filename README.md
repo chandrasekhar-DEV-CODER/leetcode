@@ -121,6 +121,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3463-alternating-groups-i) |
@@ -363,6 +364,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2716-prime-subtraction-operation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -417,6 +419,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2358-number-of-ways-to-split-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
