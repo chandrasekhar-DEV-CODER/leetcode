@@ -128,6 +128,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -289,6 +290,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2562-count-ways-to-build-good-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## String
 |  |
@@ -420,6 +422,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2465-shifting-letters-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -445,6 +448,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -504,6 +508,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2868-continuous-subarrays) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -522,6 +527,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0239-sliding-window-maximum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2868-continuous-subarrays) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Matrix
 |  |
 | ------- |
