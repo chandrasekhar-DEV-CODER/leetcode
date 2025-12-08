@@ -362,6 +362,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1448-maximum-69-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1925-count-square-sum-triples](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -748,6 +749,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1925-count-square-sum-triples](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
