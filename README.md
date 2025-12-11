@@ -127,6 +127,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3463-alternating-groups-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3463-alternating-groups-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3531-count-covered-buildings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -178,6 +179,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2685-first-completely-painted-row-or-column](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3531-count-covered-buildings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3531-count-covered-buildings) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Greedy
@@ -228,6 +230,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3531-count-covered-buildings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3531-count-covered-buildings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting Sort
 |  |
