@@ -122,6 +122,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3463-alternating-groups-i) |
@@ -230,6 +231,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3433-count-mentions-per-user](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3531-count-covered-buildings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting Sort
@@ -373,6 +375,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -571,6 +574,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2211-count-collisions-on-a-road](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3433-count-mentions-per-user](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
 |  |
