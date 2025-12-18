@@ -134,6 +134,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -433,6 +434,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2529-range-product-queries-of-powers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Sliding Window
 |  |
 | ------- |
@@ -459,6 +461,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [3463-alternating-groups-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Two Pointers
 |  |
 | ------- |
