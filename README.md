@@ -222,6 +222,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0985-bag-of-tokens](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0985-bag-of-tokens) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2092-find-all-people-with-secret](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -595,6 +596,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1396-count-servers-that-communicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1876-map-of-highest-peak) |
+| [2092-find-all-people-with-secret](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -607,6 +609,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0684-redundant-connection](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1558-course-schedule-iv) |
+| [2092-find-all-people-with-secret](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3189-find-champion-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3189-find-champion-ii) |
@@ -651,6 +654,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1558-course-schedule-iv) |
+| [2092-find-all-people-with-secret](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -680,6 +684,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0684-redundant-connection](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2092-find-all-people-with-secret](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Indexed Tree
