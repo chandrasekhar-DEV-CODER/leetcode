@@ -115,6 +115,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2868-continuous-subarrays) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -212,6 +213,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## Sorting
 |  |
@@ -235,6 +237,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2554-minimum-total-distance-traveled](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
