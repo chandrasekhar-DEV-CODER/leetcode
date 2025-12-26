@@ -353,6 +353,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2580-circular-sentence) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -450,6 +451,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2145-grid-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
