@@ -17,6 +17,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0054-spiral-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -377,6 +378,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0231-power-of-two) |
