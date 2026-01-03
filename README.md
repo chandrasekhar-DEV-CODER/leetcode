@@ -305,6 +305,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1025-minimum-cost-for-tickets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1137-n-th-tribonacci-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1537-get-the-maximum-score](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1537-get-the-maximum-score) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
