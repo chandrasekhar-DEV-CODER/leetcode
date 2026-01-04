@@ -66,6 +66,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1025-minimum-cost-for-tickets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1390-four-divisors](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -392,6 +393,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1013-fibonacci-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1390-four-divisors](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1448-maximum-69-number) |
