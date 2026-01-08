@@ -71,6 +71,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1402-count-square-submatrices-with-all-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1537-get-the-maximum-score](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1537-get-the-maximum-score) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -307,6 +308,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1137-n-th-tribonacci-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1537-get-the-maximum-score](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1537-get-the-maximum-score) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
