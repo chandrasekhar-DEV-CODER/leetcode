@@ -301,6 +301,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0494-target-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0509-fibonacci-number) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0867-new-21-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -341,6 +342,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0345-reverse-vowels-of-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
