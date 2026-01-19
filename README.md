@@ -67,6 +67,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1034-subarrays-with-k-different-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -281,6 +282,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -460,6 +462,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -595,6 +598,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0498-diagonal-traverse](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0854-making-a-large-island) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1396-count-servers-that-communicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
