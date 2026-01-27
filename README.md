@@ -98,6 +98,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2102-find-the-middle-index-in-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -220,6 +221,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1834-minimum-number-of-people-to-teach](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2509-minimize-xor) |
@@ -244,6 +246,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2092-find-all-people-with-secret](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2402-meeting-rooms-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
