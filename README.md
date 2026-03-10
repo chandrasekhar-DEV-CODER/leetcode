@@ -190,6 +190,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1034-subarrays-with-k-different-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1169-invalid-transactions](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1502-construct-k-palindrome-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -812,6 +813,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0234-palindrome-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0328-odd-even-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Topological Sort
 |  |
 | ------- |
