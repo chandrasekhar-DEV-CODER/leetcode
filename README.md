@@ -66,6 +66,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1025-minimum-cost-for-tickets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1169-invalid-transactions](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1169-invalid-transactions) |
 | [1200-minimum-absolute-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -186,6 +187,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0952-word-subsets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1169-invalid-transactions](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1169-invalid-transactions) |
 | [1502-construct-k-palindrome-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -245,6 +247,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0780-max-chunks-to-make-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0985-bag-of-tokens](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0985-bag-of-tokens) |
+| [1169-invalid-transactions](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1169-invalid-transactions) |
 | [1200-minimum-absolute-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -368,6 +371,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1169-invalid-transactions](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1169-invalid-transactions) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
