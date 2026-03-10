@@ -425,6 +425,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1013-fibonacci-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1175-prime-arrangements](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1175-prime-arrangements) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
