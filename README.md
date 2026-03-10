@@ -67,6 +67,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1034-subarrays-with-k-different-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1169-invalid-transactions](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1200-minimum-absolute-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -188,6 +189,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0966-binary-subarrays-with-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1169-invalid-transactions](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1502-construct-k-palindrome-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -248,6 +250,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0900-reordered-power-of-2](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0985-bag-of-tokens](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0985-bag-of-tokens) |
 | [1169-invalid-transactions](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1200-minimum-absolute-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -296,6 +299,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -372,6 +376,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1169-invalid-transactions](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
