@@ -71,6 +71,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1177-can-make-palindrome-from-substring](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1184-distance-between-bus-stops](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1184-distance-between-bus-stops) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -336,6 +337,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1013-fibonacci-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1137-n-th-tribonacci-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
