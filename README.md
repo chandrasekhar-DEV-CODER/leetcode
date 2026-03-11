@@ -69,6 +69,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1169-invalid-transactions](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1177-can-make-palindrome-from-substring](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1200-minimum-absolute-difference](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -193,6 +194,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1177-can-make-palindrome-from-substring](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1502-construct-k-palindrome-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -381,6 +383,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1169-invalid-transactions](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1177-can-make-palindrome-from-substring](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -470,6 +473,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0342-power-of-four](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1177-can-make-palindrome-from-substring](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1940-maximum-xor-for-each-query](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -791,6 +795,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0014-longest-common-prefix) |
+| [1178-number-of-valid-words-for-each-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
