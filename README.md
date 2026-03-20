@@ -307,6 +307,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0907-koko-eating-bananas](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1201-ugly-number-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1201-ugly-number-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -436,6 +437,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1146-greatest-common-divisor-of-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1175-prime-arrangements](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1185-day-of-the-week) |
+| [1201-ugly-number-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1201-ugly-number-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -462,6 +464,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Number Theory
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1201-ugly-number-iii) |
 | [2716-prime-subtraction-operation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## Bit Manipulation
@@ -905,5 +908,6 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Combinatorics
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1201-ugly-number-iii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
