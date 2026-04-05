@@ -8,6 +8,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0001-two-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0037-sudoku-solver) |
@@ -555,6 +556,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0125-valid-palindrome) |
