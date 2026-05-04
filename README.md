@@ -121,6 +121,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [2358-number-of-ways-to-split-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2402-meeting-rooms-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -355,6 +356,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -662,6 +664,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [1876-map-of-highest-peak](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1972-rotating-the-box) |
 | [2145-grid-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2145-grid-game) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
