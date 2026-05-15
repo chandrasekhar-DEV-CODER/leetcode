@@ -699,6 +699,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0102-binary-tree-level-order-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0207-course-schedule) |
 | [0407-trapping-rain-water-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0684-redundant-connection) |
@@ -766,6 +767,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0207-course-schedule](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0684-redundant-connection) |
@@ -859,6 +861,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -934,4 +937,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [1201-ugly-number-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1201-ugly-number-iii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
