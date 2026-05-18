@@ -630,6 +630,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0743-network-delay-time](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0743-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1917-maximum-average-pass-ratio](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -705,6 +706,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0743-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0854-making-a-large-island) |
@@ -774,6 +776,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0543-diameter-of-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0743-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -945,4 +948,9 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0207-course-schedule](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
