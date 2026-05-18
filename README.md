@@ -714,6 +714,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0994-rotting-oranges](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1396-count-servers-that-communicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -782,6 +783,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1558-course-schedule-iv) |
@@ -949,8 +951,13 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0207-course-schedule](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0743-network-delay-time) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0743-network-delay-time) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
