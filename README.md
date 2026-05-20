@@ -19,6 +19,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -333,6 +334,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0045-jump-game-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -654,6 +656,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0048-rotate-image](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0407-trapping-rain-water-ii) |
