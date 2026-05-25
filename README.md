@@ -967,5 +967,6 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0595-big-countries) |
 | [1693-daily-leads-and-partners](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
