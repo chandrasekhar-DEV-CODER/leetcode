@@ -867,6 +867,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -886,6 +887,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0234-palindrome-linked-list) |
