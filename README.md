@@ -333,6 +333,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | ------- |
 | [0045-jump-game-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0070-climbing-stairs) |
@@ -436,6 +437,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0189-rotate-array) |
@@ -946,6 +948,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0062-unique-paths) |
 | [1201-ugly-number-iii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1201-ugly-number-iii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Graph Theory
