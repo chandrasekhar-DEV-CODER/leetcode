@@ -46,6 +46,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0498-diagonal-traverse) |
@@ -312,6 +313,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0209-minimum-size-subarray-sum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -745,6 +747,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0493-reverse-pairs) |
 | [2868-continuous-subarrays](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/2868-continuous-subarrays) |
 ## Tree
 |  |
@@ -831,10 +834,12 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Trie
 |  |
@@ -894,10 +899,12 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0169-majority-element](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
