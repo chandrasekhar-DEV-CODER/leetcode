@@ -443,6 +443,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0070-climbing-stairs) |
@@ -895,6 +896,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0234-palindrome-linked-list) |
