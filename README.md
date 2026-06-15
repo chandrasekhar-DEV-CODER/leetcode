@@ -266,6 +266,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0217-contains-duplicate](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -589,6 +590,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0189-rotate-array](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0455-assign-cookies) |
@@ -642,6 +644,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0743-network-delay-time](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0743-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -922,6 +925,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Memoization
 |  |
@@ -993,4 +997,8 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0595-big-countries](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1148-article-views-i) |
 | [1693-daily-leads-and-partners](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1693-daily-leads-and-partners) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
