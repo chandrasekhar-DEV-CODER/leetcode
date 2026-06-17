@@ -26,6 +26,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0068-text-justification](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -607,6 +608,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -625,6 +627,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0739-daily-temperatures) |
