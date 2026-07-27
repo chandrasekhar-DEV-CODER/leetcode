@@ -1004,6 +1004,7 @@ LeetCode Daily Practice This repository contains my daily practice solutions fro
 | [0595-big-countries](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1148-article-views-i) |
 | [1693-daily-leads-and-partners](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1693-daily-leads-and-partners) |
+| [1757-recyclable-and-low-fat-products](https://github.com/chandrasekhar-DEV-CODER/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Data Stream
 |  |
 | ------- |
